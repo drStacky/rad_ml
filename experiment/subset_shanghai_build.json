@@ -1,0 +1,1502 @@
+[
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102101_1040010008A26E00_17_09.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102101_1040010008A26E00_17_09.tif",
+      "kind": "train"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102101_1040010008A26E00_17_10.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102101_1040010008A26E00_17_10.tif",
+      "kind": "train"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102101_1040010008A26E00_17_11.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102101_1040010008A26E00_17_11.tif",
+      "kind": "train"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102101_1040010008A26E00_17_12.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102101_1040010008A26E00_17_12.tif",
+      "kind": "train"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102101_1040010008A26E00_17_13.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102101_1040010008A26E00_17_13.tif",
+      "kind": "train"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102101_1040010008A26E00_17_14.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102101_1040010008A26E00_17_14.tif",
+      "kind": "train"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102101_1040010008A26E00_17_15.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102101_1040010008A26E00_17_15.tif",
+      "kind": "train"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102101_1040010008A26E00_17_16.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102101_1040010008A26E00_17_16.tif",
+      "kind": "train"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102101_1040010008A26E00_17_17.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102101_1040010008A26E00_17_17.tif",
+      "kind": "train"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102101_1040010008A26E00_17_18.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102101_1040010008A26E00_17_18.tif",
+      "kind": "train"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102101_1040010008A26E00_17_19.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102101_1040010008A26E00_17_19.tif",
+      "kind": "train"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102101_1040010008A26E00_17_20.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102101_1040010008A26E00_17_20.tif",
+      "kind": "train"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102101_1040010008A26E00_17_21.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102101_1040010008A26E00_17_21.tif",
+      "kind": "train"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102101_1040010008A26E00_17_22.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102101_1040010008A26E00_17_22.tif",
+      "kind": "train"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102101_1040010008A26E00_18_09.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102101_1040010008A26E00_18_09.tif",
+      "kind": "train"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102101_1040010008A26E00_18_10.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102101_1040010008A26E00_18_10.tif",
+      "kind": "train"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102101_1040010008A26E00_18_11.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102101_1040010008A26E00_18_11.tif",
+      "kind": "train"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102101_1040010008A26E00_18_12.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102101_1040010008A26E00_18_12.tif",
+      "kind": "train"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102101_1040010008A26E00_18_13.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102101_1040010008A26E00_18_13.tif",
+      "kind": "train"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102101_1040010008A26E00_18_14.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102101_1040010008A26E00_18_14.tif",
+      "kind": "train"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102101_1040010008A26E00_18_15.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102101_1040010008A26E00_18_15.tif",
+      "kind": "train"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102101_1040010008A26E00_18_16.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102101_1040010008A26E00_18_16.tif",
+      "kind": "train"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102101_1040010008A26E00_18_17.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102101_1040010008A26E00_18_17.tif",
+      "kind": "train"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102101_1040010008A26E00_18_18.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102101_1040010008A26E00_18_18.tif",
+      "kind": "train"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102101_1040010008A26E00_18_19.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102101_1040010008A26E00_18_19.tif",
+      "kind": "train"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102101_1040010008A26E00_18_20.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102101_1040010008A26E00_18_20.tif",
+      "kind": "train"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102101_1040010008A26E00_18_21.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102101_1040010008A26E00_18_21.tif",
+      "kind": "train"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102101_1040010008A26E00_18_22.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102101_1040010008A26E00_18_22.tif",
+      "kind": "train"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102101_1040010008A26E00_18_23.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102101_1040010008A26E00_18_23.tif",
+      "kind": "train"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102101_1040010008A26E00_18_24.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102101_1040010008A26E00_18_24.tif",
+      "kind": "train"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102101_1040010008A26E00_18_25.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102101_1040010008A26E00_18_25.tif",
+      "kind": "train"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102101_1040010008A26E00_18_26.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102101_1040010008A26E00_18_26.tif",
+      "kind": "train"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102101_1040010008A26E00_18_27.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102101_1040010008A26E00_18_27.tif",
+      "kind": "train"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102101_1040010008A26E00_19_09.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102101_1040010008A26E00_19_09.tif",
+      "kind": "train"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102101_1040010008A26E00_19_10.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102101_1040010008A26E00_19_10.tif",
+      "kind": "train"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102101_1040010008A26E00_19_12.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102101_1040010008A26E00_19_12.tif",
+      "kind": "train"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102101_1040010008A26E00_19_13.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102101_1040010008A26E00_19_13.tif",
+      "kind": "train"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102101_1040010008A26E00_19_14.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102101_1040010008A26E00_19_14.tif",
+      "kind": "train"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102101_1040010008A26E00_19_15.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102101_1040010008A26E00_19_15.tif",
+      "kind": "train"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102101_1040010008A26E00_19_17.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102101_1040010008A26E00_19_17.tif",
+      "kind": "train"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102101_1040010008A26E00_19_18.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102101_1040010008A26E00_19_18.tif",
+      "kind": "train"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102101_1040010008A26E00_19_19.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102101_1040010008A26E00_19_19.tif",
+      "kind": "train"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102101_1040010008A26E00_19_20.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102101_1040010008A26E00_19_20.tif",
+      "kind": "train"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102101_1040010008A26E00_19_21.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102101_1040010008A26E00_19_21.tif",
+      "kind": "train"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102101_1040010008A26E00_19_22.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102101_1040010008A26E00_19_22.tif",
+      "kind": "train"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102101_1040010008A26E00_19_23.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102101_1040010008A26E00_19_23.tif",
+      "kind": "train"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102101_1040010008A26E00_19_24.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102101_1040010008A26E00_19_24.tif",
+      "kind": "train"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102101_1040010008A26E00_19_25.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102101_1040010008A26E00_19_25.tif",
+      "kind": "train"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102101_1040010008A26E00_19_26.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102101_1040010008A26E00_19_26.tif",
+      "kind": "train"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102101_1040010008A26E00_19_27.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102101_1040010008A26E00_19_27.tif",
+      "kind": "train"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102101_1040010008A26E00_20_10.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102101_1040010008A26E00_20_10.tif",
+      "kind": "train"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102101_1040010008A26E00_20_11.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102101_1040010008A26E00_20_11.tif",
+      "kind": "train"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102101_1040010008A26E00_20_12.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102101_1040010008A26E00_20_12.tif",
+      "kind": "train"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102101_1040010008A26E00_20_13.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102101_1040010008A26E00_20_13.tif",
+      "kind": "train"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102101_1040010008A26E00_20_14.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102101_1040010008A26E00_20_14.tif",
+      "kind": "train"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102101_1040010008A26E00_20_15.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102101_1040010008A26E00_20_15.tif",
+      "kind": "train"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102101_1040010008A26E00_20_16.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102101_1040010008A26E00_20_16.tif",
+      "kind": "train"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102101_1040010008A26E00_20_17.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102101_1040010008A26E00_20_17.tif",
+      "kind": "train"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102101_1040010008A26E00_20_18.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102101_1040010008A26E00_20_18.tif",
+      "kind": "train"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102101_1040010008A26E00_20_19.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102101_1040010008A26E00_20_19.tif",
+      "kind": "train"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102101_1040010008A26E00_20_20.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102101_1040010008A26E00_20_20.tif",
+      "kind": "train"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102101_1040010008A26E00_20_21.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102101_1040010008A26E00_20_21.tif",
+      "kind": "train"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102101_1040010008A26E00_20_22.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102101_1040010008A26E00_20_22.tif",
+      "kind": "train"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102101_1040010008A26E00_20_23.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102101_1040010008A26E00_20_23.tif",
+      "kind": "train"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102101_1040010008A26E00_20_24.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102101_1040010008A26E00_20_24.tif",
+      "kind": "train"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102101_1040010008A26E00_20_25.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102101_1040010008A26E00_20_25.tif",
+      "kind": "train"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102101_1040010008A26E00_20_26.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102101_1040010008A26E00_20_26.tif",
+      "kind": "train"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102101_1040010008A26E00_20_27.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102101_1040010008A26E00_20_27.tif",
+      "kind": "train"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102101_1040010008A26E00_21_09.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102101_1040010008A26E00_21_09.tif",
+      "kind": "train"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102101_1040010008A26E00_21_10.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102101_1040010008A26E00_21_10.tif",
+      "kind": "train"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102101_1040010008A26E00_21_11.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102101_1040010008A26E00_21_11.tif",
+      "kind": "train"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102101_1040010008A26E00_21_12.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102101_1040010008A26E00_21_12.tif",
+      "kind": "train"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102101_1040010008A26E00_21_14.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102101_1040010008A26E00_21_14.tif",
+      "kind": "train"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102101_1040010008A26E00_21_15.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102101_1040010008A26E00_21_15.tif",
+      "kind": "train"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102101_1040010008A26E00_21_16.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102101_1040010008A26E00_21_16.tif",
+      "kind": "train"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102101_1040010008A26E00_21_17.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102101_1040010008A26E00_21_17.tif",
+      "kind": "train"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102101_1040010008A26E00_21_18.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102101_1040010008A26E00_21_18.tif",
+      "kind": "train"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102101_1040010008A26E00_21_19.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102101_1040010008A26E00_21_19.tif",
+      "kind": "train"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102101_1040010008A26E00_21_20.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102101_1040010008A26E00_21_20.tif",
+      "kind": "train"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102101_1040010008A26E00_21_21.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102101_1040010008A26E00_21_21.tif",
+      "kind": "train"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102101_1040010008A26E00_21_22.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102101_1040010008A26E00_21_22.tif",
+      "kind": "train"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102101_1040010008A26E00_21_23.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102101_1040010008A26E00_21_23.tif",
+      "kind": "train"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102101_1040010008A26E00_21_24.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102101_1040010008A26E00_21_24.tif",
+      "kind": "train"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102101_1040010008A26E00_21_25.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102101_1040010008A26E00_21_25.tif",
+      "kind": "train"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102101_1040010008A26E00_21_26.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102101_1040010008A26E00_21_26.tif",
+      "kind": "train"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102101_1040010008A26E00_21_27.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102101_1040010008A26E00_21_27.tif",
+      "kind": "train"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102101_1040010008A26E00_22_09.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102101_1040010008A26E00_22_09.tif",
+      "kind": "train"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102101_1040010008A26E00_22_10.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102101_1040010008A26E00_22_10.tif",
+      "kind": "train"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102101_1040010008A26E00_22_11.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102101_1040010008A26E00_22_11.tif",
+      "kind": "train"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102101_1040010008A26E00_22_12.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102101_1040010008A26E00_22_12.tif",
+      "kind": "train"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102101_1040010008A26E00_22_13.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102101_1040010008A26E00_22_13.tif",
+      "kind": "train"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102101_1040010008A26E00_22_14.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102101_1040010008A26E00_22_14.tif",
+      "kind": "train"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102101_1040010008A26E00_22_15.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102101_1040010008A26E00_22_15.tif",
+      "kind": "train"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102101_1040010008A26E00_22_17.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102101_1040010008A26E00_22_17.tif",
+      "kind": "train"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102101_1040010008A26E00_22_18.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102101_1040010008A26E00_22_18.tif",
+      "kind": "train"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102101_1040010008A26E00_22_19.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102101_1040010008A26E00_22_19.tif",
+      "kind": "train"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102101_1040010008A26E00_22_20.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102101_1040010008A26E00_22_20.tif",
+      "kind": "train"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102101_1040010008A26E00_22_21.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102101_1040010008A26E00_22_21.tif",
+      "kind": "train"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102101_1040010008A26E00_22_22.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102101_1040010008A26E00_22_22.tif",
+      "kind": "train"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102101_1040010008A26E00_22_23.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102101_1040010008A26E00_22_23.tif",
+      "kind": "train"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102101_1040010008A26E00_19_11.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102101_1040010008A26E00_19_11.tif",
+      "kind": "valid"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102101_1040010008A26E00_19_16.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102101_1040010008A26E00_19_16.tif",
+      "kind": "valid"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102101_1040010008A26E00_20_09.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102101_1040010008A26E00_20_09.tif",
+      "kind": "valid"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102101_1040010008A26E00_21_13.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102101_1040010008A26E00_21_13.tif",
+      "kind": "valid"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102101_1040010008A26E00_22_16.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102101_1040010008A26E00_22_16.tif",
+      "kind": "valid"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102101_1040010008A26E00_23_12.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102101_1040010008A26E00_23_12.tif",
+      "kind": "valid"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102101_1040010008A26E00_23_17.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102101_1040010008A26E00_23_17.tif",
+      "kind": "valid"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102101_1040010008A26E00_23_24.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102101_1040010008A26E00_23_24.tif",
+      "kind": "valid"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102101_1040010008A26E00_23_25.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102101_1040010008A26E00_23_25.tif",
+      "kind": "valid"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102101_1040010008A26E00_24_13.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102101_1040010008A26E00_24_13.tif",
+      "kind": "valid"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102101_1040010008A26E00_24_22.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102101_1040010008A26E00_24_22.tif",
+      "kind": "valid"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102101_1040010008A26E00_25_14.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102101_1040010008A26E00_25_14.tif",
+      "kind": "valid"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102101_1040010008A26E00_26_12.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102101_1040010008A26E00_26_12.tif",
+      "kind": "valid"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102101_1040010008A26E00_26_15.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102101_1040010008A26E00_26_15.tif",
+      "kind": "valid"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102101_1040010008A26E00_27_10.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102101_1040010008A26E00_27_10.tif",
+      "kind": "valid"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102101_1040010008A26E00_27_23.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102101_1040010008A26E00_27_23.tif",
+      "kind": "valid"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102101_1040010008A26E00_28_22.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102101_1040010008A26E00_28_22.tif",
+      "kind": "valid"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102101_1040010008A26E00_29_11.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102101_1040010008A26E00_29_11.tif",
+      "kind": "valid"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102101_1040010008A26E00_29_14.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102101_1040010008A26E00_29_14.tif",
+      "kind": "valid"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102101_1040010008A26E00_29_23.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102101_1040010008A26E00_29_23.tif",
+      "kind": "valid"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102101_1040010008A26E00_30_15.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102101_1040010008A26E00_30_15.tif",
+      "kind": "valid"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102101_1040010008A26E00_30_16.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102101_1040010008A26E00_30_16.tif",
+      "kind": "valid"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102101_1040010008A26E00_30_22.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102101_1040010008A26E00_30_22.tif",
+      "kind": "valid"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102101_1040010008A26E00_31_14.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102101_1040010008A26E00_31_14.tif",
+      "kind": "valid"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102101_1040010008A26E00_31_21.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102101_1040010008A26E00_31_21.tif",
+      "kind": "valid"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102101_1040010008A26E00_32_11.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102101_1040010008A26E00_32_11.tif",
+      "kind": "valid"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102101_1040010008A26E00_32_14.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102101_1040010008A26E00_32_14.tif",
+      "kind": "valid"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102101_1040010008A26E00_32_18.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102101_1040010008A26E00_32_18.tif",
+      "kind": "valid"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102101_1040010008A26E00_33_16.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102101_1040010008A26E00_33_16.tif",
+      "kind": "valid"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102101_1040010008A26E00_33_17.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102101_1040010008A26E00_33_17.tif",
+      "kind": "valid"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102101_1040010008A26E00_33_19.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102101_1040010008A26E00_33_19.tif",
+      "kind": "valid"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102101_1040010008A26E00_33_20.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102101_1040010008A26E00_33_20.tif",
+      "kind": "valid"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102101_1040010008A26E00_34_15.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102101_1040010008A26E00_34_15.tif",
+      "kind": "valid"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102101_1040010008A26E00_34_24.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102101_1040010008A26E00_34_24.tif",
+      "kind": "valid"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102101_104001000C0D2900_19_10.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102101_104001000C0D2900_19_10.tif",
+      "kind": "valid"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102101_104001000C0D2900_19_18.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102101_104001000C0D2900_19_18.tif",
+      "kind": "valid"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102101_104001000C0D2900_19_19.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102101_104001000C0D2900_19_19.tif",
+      "kind": "valid"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102101_104001000C0D2900_20_10.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102101_104001000C0D2900_20_10.tif",
+      "kind": "valid"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102101_104001000C0D2900_20_12.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102101_104001000C0D2900_20_12.tif",
+      "kind": "valid"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102101_104001000C0D2900_20_13.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102101_104001000C0D2900_20_13.tif",
+      "kind": "valid"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102101_104001000C0D2900_22_19.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102101_104001000C0D2900_22_19.tif",
+      "kind": "valid"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102101_104001000C0D2900_23_12.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102101_104001000C0D2900_23_12.tif",
+      "kind": "valid"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102101_104001000C0D2900_23_18.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102101_104001000C0D2900_23_18.tif",
+      "kind": "valid"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102101_104001000C0D2900_24_12.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102101_104001000C0D2900_24_12.tif",
+      "kind": "valid"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102101_104001000C0D2900_24_13.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102101_104001000C0D2900_24_13.tif",
+      "kind": "valid"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102101_104001000C0D2900_25_13.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102101_104001000C0D2900_25_13.tif",
+      "kind": "valid"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102101_104001000C0D2900_25_16.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102101_104001000C0D2900_25_16.tif",
+      "kind": "valid"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102101_104001000C0D2900_28_16.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102101_104001000C0D2900_28_16.tif",
+      "kind": "valid"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102101_104001000C0D2900_28_17.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102101_104001000C0D2900_28_17.tif",
+      "kind": "valid"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102101_104001000C0D2900_29_14.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102101_104001000C0D2900_29_14.tif",
+      "kind": "valid"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102101_104001000C0D2900_30_16.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102101_104001000C0D2900_30_16.tif",
+      "kind": "valid"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102101_104001000C0D2900_30_19.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102101_104001000C0D2900_30_19.tif",
+      "kind": "valid"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102101_104001000C0D2900_31_11.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102101_104001000C0D2900_31_11.tif",
+      "kind": "valid"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102101_104001000C0D2900_31_15.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102101_104001000C0D2900_31_15.tif",
+      "kind": "valid"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102101_104001000C0D2900_31_16.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102101_104001000C0D2900_31_16.tif",
+      "kind": "valid"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102101_104001000C0D2900_31_18.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102101_104001000C0D2900_31_18.tif",
+      "kind": "valid"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102101_104001000C0D2900_32_09.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102101_104001000C0D2900_32_09.tif",
+      "kind": "valid"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102101_104001000C0D2900_32_12.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102101_104001000C0D2900_32_12.tif",
+      "kind": "valid"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102101_104001000C0D2900_32_19.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102101_104001000C0D2900_32_19.tif",
+      "kind": "valid"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102101_104001000C0D2900_33_10.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102101_104001000C0D2900_33_10.tif",
+      "kind": "valid"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102103_1040010008A26E00_01_16.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102103_1040010008A26E00_01_16.tif",
+      "kind": "valid"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102103_1040010008A26E00_01_18.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102103_1040010008A26E00_01_18.tif",
+      "kind": "valid"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102103_1040010008A26E00_01_19.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102103_1040010008A26E00_01_19.tif",
+      "kind": "valid"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102103_1040010008A26E00_01_20.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102103_1040010008A26E00_01_20.tif",
+      "kind": "valid"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102103_1040010008A26E00_01_27.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102103_1040010008A26E00_01_27.tif",
+      "kind": "valid"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102103_1040010008A26E00_02_12.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102103_1040010008A26E00_02_12.tif",
+      "kind": "valid"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102103_1040010008A26E00_03_19.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102103_1040010008A26E00_03_19.tif",
+      "kind": "valid"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102103_1040010008A26E00_03_22.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102103_1040010008A26E00_03_22.tif",
+      "kind": "valid"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102103_1040010008A26E00_04_19.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102103_1040010008A26E00_04_19.tif",
+      "kind": "valid"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102103_1040010008A26E00_05_11.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102103_1040010008A26E00_05_11.tif",
+      "kind": "valid"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102103_1040010008A26E00_06_27.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102103_1040010008A26E00_06_27.tif",
+      "kind": "valid"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102103_1040010008A26E00_07_11.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102103_1040010008A26E00_07_11.tif",
+      "kind": "valid"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102103_1040010008A26E00_07_13.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102103_1040010008A26E00_07_13.tif",
+      "kind": "valid"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102103_1040010008A26E00_07_16.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102103_1040010008A26E00_07_16.tif",
+      "kind": "valid"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102103_1040010008A26E00_07_18.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102103_1040010008A26E00_07_18.tif",
+      "kind": "valid"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102103_1040010008A26E00_07_23.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102103_1040010008A26E00_07_23.tif",
+      "kind": "valid"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102103_1040010008A26E00_07_24.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102103_1040010008A26E00_07_24.tif",
+      "kind": "valid"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102103_1040010008A26E00_09_16.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102103_1040010008A26E00_09_16.tif",
+      "kind": "valid"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102103_1040010008A26E00_09_19.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102103_1040010008A26E00_09_19.tif",
+      "kind": "valid"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102103_1040010008A26E00_09_21.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102103_1040010008A26E00_09_21.tif",
+      "kind": "valid"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102103_1040010008A26E00_10_24.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102103_1040010008A26E00_10_24.tif",
+      "kind": "valid"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102103_1040010008A26E00_10_26.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102103_1040010008A26E00_10_26.tif",
+      "kind": "valid"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102103_1040010008A26E00_11_23.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102103_1040010008A26E00_11_23.tif",
+      "kind": "valid"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102103_1040010008A26E00_11_24.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102103_1040010008A26E00_11_24.tif",
+      "kind": "valid"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102103_1040010008A26E00_12_18.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102103_1040010008A26E00_12_18.tif",
+      "kind": "valid"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102103_1040010008A26E00_12_20.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102103_1040010008A26E00_12_20.tif",
+      "kind": "valid"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102103_1040010008A26E00_12_23.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102103_1040010008A26E00_12_23.tif",
+      "kind": "valid"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102103_1040010008A26E00_13_09.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102103_1040010008A26E00_13_09.tif",
+      "kind": "valid"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102103_1040010008A26E00_13_10.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102103_1040010008A26E00_13_10.tif",
+      "kind": "valid"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102103_1040010008A26E00_13_15.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102103_1040010008A26E00_13_15.tif",
+      "kind": "valid"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102103_1040010008A26E00_13_19.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102103_1040010008A26E00_13_19.tif",
+      "kind": "valid"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102103_1040010008A26E00_14_20.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102103_1040010008A26E00_14_20.tif",
+      "kind": "valid"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102103_1040010008A26E00_16_12.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102103_1040010008A26E00_16_12.tif",
+      "kind": "valid"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102103_1040010008A26E00_16_17.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102103_1040010008A26E00_16_17.tif",
+      "kind": "valid"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102103_1040010008A26E00_17_17.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102103_1040010008A26E00_17_17.tif",
+      "kind": "valid"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102103_1040010008A26E00_18_13.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102103_1040010008A26E00_18_13.tif",
+      "kind": "valid"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102103_1040010008A26E00_18_14.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102103_1040010008A26E00_18_14.tif",
+      "kind": "valid"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102103_1040010008A26E00_19_09.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102103_1040010008A26E00_19_09.tif",
+      "kind": "valid"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102103_1040010008A26E00_19_11.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102103_1040010008A26E00_19_11.tif",
+      "kind": "valid"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102103_1040010008A26E00_19_12.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102103_1040010008A26E00_19_12.tif",
+      "kind": "valid"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102112_10400100099FE500_09_22.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102112_10400100099FE500_09_22.tif",
+      "kind": "test"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102112_10400100099FE500_09_23.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102112_10400100099FE500_09_23.tif",
+      "kind": "test"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102112_10400100099FE500_09_24.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102112_10400100099FE500_09_24.tif",
+      "kind": "test"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102112_10400100099FE500_09_25.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102112_10400100099FE500_09_25.tif",
+      "kind": "test"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102112_10400100099FE500_09_26.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102112_10400100099FE500_09_26.tif",
+      "kind": "test"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102112_10400100099FE500_09_27.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102112_10400100099FE500_09_27.tif",
+      "kind": "test"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102112_10400100099FE500_09_28.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102112_10400100099FE500_09_28.tif",
+      "kind": "test"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102112_10400100099FE500_09_29.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102112_10400100099FE500_09_29.tif",
+      "kind": "test"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102112_10400100099FE500_09_30.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102112_10400100099FE500_09_30.tif",
+      "kind": "test"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102112_10400100099FE500_09_31.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102112_10400100099FE500_09_31.tif",
+      "kind": "test"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102112_10400100099FE500_09_32.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102112_10400100099FE500_09_32.tif",
+      "kind": "test"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102112_10400100099FE500_09_33.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102112_10400100099FE500_09_33.tif",
+      "kind": "test"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102112_10400100099FE500_09_34.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102112_10400100099FE500_09_34.tif",
+      "kind": "test"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102112_10400100099FE500_10_22.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102112_10400100099FE500_10_22.tif",
+      "kind": "test"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102112_10400100099FE500_10_23.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102112_10400100099FE500_10_23.tif",
+      "kind": "test"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102112_10400100099FE500_10_24.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102112_10400100099FE500_10_24.tif",
+      "kind": "test"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102112_10400100099FE500_10_25.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102112_10400100099FE500_10_25.tif",
+      "kind": "test"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102112_10400100099FE500_10_26.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102112_10400100099FE500_10_26.tif",
+      "kind": "test"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102112_10400100099FE500_10_27.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102112_10400100099FE500_10_27.tif",
+      "kind": "test"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102112_10400100099FE500_10_28.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102112_10400100099FE500_10_28.tif",
+      "kind": "test"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102112_10400100099FE500_10_29.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102112_10400100099FE500_10_29.tif",
+      "kind": "test"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102112_10400100099FE500_10_30.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102112_10400100099FE500_10_30.tif",
+      "kind": "test"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102112_10400100099FE500_10_31.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102112_10400100099FE500_10_31.tif",
+      "kind": "test"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102112_10400100099FE500_10_32.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102112_10400100099FE500_10_32.tif",
+      "kind": "test"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102112_10400100099FE500_10_33.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102112_10400100099FE500_10_33.tif",
+      "kind": "test"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102112_10400100099FE500_10_34.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102112_10400100099FE500_10_34.tif",
+      "kind": "test"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102112_10400100099FE500_11_22.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102112_10400100099FE500_11_22.tif",
+      "kind": "test"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102112_10400100099FE500_11_23.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102112_10400100099FE500_11_23.tif",
+      "kind": "test"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102112_10400100099FE500_11_24.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102112_10400100099FE500_11_24.tif",
+      "kind": "test"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102112_10400100099FE500_11_25.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102112_10400100099FE500_11_25.tif",
+      "kind": "test"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102112_10400100099FE500_11_26.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102112_10400100099FE500_11_26.tif",
+      "kind": "test"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102112_10400100099FE500_11_27.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102112_10400100099FE500_11_27.tif",
+      "kind": "test"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102112_10400100099FE500_11_28.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102112_10400100099FE500_11_28.tif",
+      "kind": "test"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102112_10400100099FE500_11_29.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102112_10400100099FE500_11_29.tif",
+      "kind": "test"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102112_10400100099FE500_11_30.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102112_10400100099FE500_11_30.tif",
+      "kind": "test"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102112_10400100099FE500_11_31.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102112_10400100099FE500_11_31.tif",
+      "kind": "test"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102112_10400100099FE500_11_32.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102112_10400100099FE500_11_32.tif",
+      "kind": "test"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102112_10400100099FE500_11_33.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102112_10400100099FE500_11_33.tif",
+      "kind": "test"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102112_10400100099FE500_11_34.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102112_10400100099FE500_11_34.tif",
+      "kind": "test"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102112_10400100099FE500_12_22.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102112_10400100099FE500_12_22.tif",
+      "kind": "test"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102112_10400100099FE500_12_23.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102112_10400100099FE500_12_23.tif",
+      "kind": "test"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102112_10400100099FE500_12_24.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102112_10400100099FE500_12_24.tif",
+      "kind": "test"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102112_10400100099FE500_12_25.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102112_10400100099FE500_12_25.tif",
+      "kind": "test"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102112_10400100099FE500_12_26.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102112_10400100099FE500_12_26.tif",
+      "kind": "test"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102112_10400100099FE500_12_27.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102112_10400100099FE500_12_27.tif",
+      "kind": "test"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102112_10400100099FE500_12_28.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102112_10400100099FE500_12_28.tif",
+      "kind": "test"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102112_10400100099FE500_12_29.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102112_10400100099FE500_12_29.tif",
+      "kind": "test"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102112_10400100099FE500_12_30.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102112_10400100099FE500_12_30.tif",
+      "kind": "test"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102112_10400100099FE500_12_31.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102112_10400100099FE500_12_31.tif",
+      "kind": "test"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102112_10400100099FE500_12_32.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102112_10400100099FE500_12_32.tif",
+      "kind": "test"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102112_10400100099FE500_12_33.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102112_10400100099FE500_12_33.tif",
+      "kind": "test"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102112_10400100099FE500_12_34.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102112_10400100099FE500_12_34.tif",
+      "kind": "test"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102112_10400100099FE500_13_22.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102112_10400100099FE500_13_22.tif",
+      "kind": "test"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102112_10400100099FE500_13_23.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102112_10400100099FE500_13_23.tif",
+      "kind": "test"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102112_10400100099FE500_13_24.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102112_10400100099FE500_13_24.tif",
+      "kind": "test"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102112_10400100099FE500_13_25.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102112_10400100099FE500_13_25.tif",
+      "kind": "test"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102112_10400100099FE500_13_26.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102112_10400100099FE500_13_26.tif",
+      "kind": "test"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102112_10400100099FE500_13_27.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102112_10400100099FE500_13_27.tif",
+      "kind": "test"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102112_10400100099FE500_13_28.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102112_10400100099FE500_13_28.tif",
+      "kind": "test"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102112_10400100099FE500_13_29.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102112_10400100099FE500_13_29.tif",
+      "kind": "test"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102112_10400100099FE500_13_30.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102112_10400100099FE500_13_30.tif",
+      "kind": "test"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102112_10400100099FE500_13_31.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102112_10400100099FE500_13_31.tif",
+      "kind": "test"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102112_10400100099FE500_13_32.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102112_10400100099FE500_13_32.tif",
+      "kind": "test"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102112_10400100099FE500_13_33.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102112_10400100099FE500_13_33.tif",
+      "kind": "test"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102112_10400100099FE500_13_34.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102112_10400100099FE500_13_34.tif",
+      "kind": "test"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102112_10400100099FE500_14_22.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102112_10400100099FE500_14_22.tif",
+      "kind": "test"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102112_10400100099FE500_14_23.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102112_10400100099FE500_14_23.tif",
+      "kind": "test"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102112_10400100099FE500_14_24.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102112_10400100099FE500_14_24.tif",
+      "kind": "test"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102112_10400100099FE500_14_25.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102112_10400100099FE500_14_25.tif",
+      "kind": "test"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102112_10400100099FE500_14_26.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102112_10400100099FE500_14_26.tif",
+      "kind": "test"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102112_10400100099FE500_14_27.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102112_10400100099FE500_14_27.tif",
+      "kind": "test"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102112_10400100099FE500_14_28.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102112_10400100099FE500_14_28.tif",
+      "kind": "test"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102112_10400100099FE500_14_29.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102112_10400100099FE500_14_29.tif",
+      "kind": "test"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102112_10400100099FE500_14_30.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102112_10400100099FE500_14_30.tif",
+      "kind": "test"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102112_10400100099FE500_14_31.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102112_10400100099FE500_14_31.tif",
+      "kind": "test"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102112_10400100099FE500_14_32.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102112_10400100099FE500_14_32.tif",
+      "kind": "test"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102112_10400100099FE500_14_33.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102112_10400100099FE500_14_33.tif",
+      "kind": "test"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102112_10400100099FE500_14_34.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102112_10400100099FE500_14_34.tif",
+      "kind": "test"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102112_10400100099FE500_15_22.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102112_10400100099FE500_15_22.tif",
+      "kind": "test"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102112_10400100099FE500_15_23.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102112_10400100099FE500_15_23.tif",
+      "kind": "test"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102112_10400100099FE500_15_24.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102112_10400100099FE500_15_24.tif",
+      "kind": "test"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102112_10400100099FE500_15_25.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102112_10400100099FE500_15_25.tif",
+      "kind": "test"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102112_10400100099FE500_15_26.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102112_10400100099FE500_15_26.tif",
+      "kind": "test"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102112_10400100099FE500_15_27.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102112_10400100099FE500_15_27.tif",
+      "kind": "test"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102112_10400100099FE500_15_28.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102112_10400100099FE500_15_28.tif",
+      "kind": "test"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102112_10400100099FE500_15_29.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102112_10400100099FE500_15_29.tif",
+      "kind": "test"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102112_10400100099FE500_15_30.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102112_10400100099FE500_15_30.tif",
+      "kind": "test"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102112_10400100099FE500_15_31.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102112_10400100099FE500_15_31.tif",
+      "kind": "test"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102112_10400100099FE500_15_32.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102112_10400100099FE500_15_32.tif",
+      "kind": "test"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102112_10400100099FE500_15_33.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102112_10400100099FE500_15_33.tif",
+      "kind": "test"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102112_10400100099FE500_15_34.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102112_10400100099FE500_15_34.tif",
+      "kind": "test"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102112_10400100099FE500_16_22.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102112_10400100099FE500_16_22.tif",
+      "kind": "test"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102112_10400100099FE500_16_23.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102112_10400100099FE500_16_23.tif",
+      "kind": "test"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102112_10400100099FE500_16_24.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102112_10400100099FE500_16_24.tif",
+      "kind": "test"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102112_10400100099FE500_16_25.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102112_10400100099FE500_16_25.tif",
+      "kind": "test"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102112_10400100099FE500_16_26.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102112_10400100099FE500_16_26.tif",
+      "kind": "test"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102112_10400100099FE500_16_27.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102112_10400100099FE500_16_27.tif",
+      "kind": "test"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102112_10400100099FE500_16_28.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102112_10400100099FE500_16_28.tif",
+      "kind": "test"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102112_10400100099FE500_16_29.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102112_10400100099FE500_16_29.tif",
+      "kind": "test"
+   },
+   {
+      "img_path": "s3://mstackpo/raster_chips/img/shanghai/51_031313102112_10400100099FE500_16_30.tif",
+      "lbl_path": "s3://mstackpo/raster_chips/build/shanghai/51_031313102112_10400100099FE500_16_30.tif",
+      "kind": "test"
+   }
+]
