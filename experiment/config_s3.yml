@@ -1,5 +1,5 @@
 # For each img-lbl pair in json: img_path, lbl_path, kind
-json_pth: s3://mstackpo/raster_chips/shanghai_build.json
+json_pth: subset_shanghai_build.json
 batch_size: 64
 num_epochs: 3
 # Use subset of full datasets
