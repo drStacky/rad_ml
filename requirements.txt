@@ -1,0 +1,12 @@
+click
+boto3
+s3fs
+numpy
+torch
+torchvision
+pandas
+pytorch-lightning
+rasterio
+rasterio[s3]
+scikit-image
+pyyaml

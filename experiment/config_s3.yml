@@ -1,0 +1,10 @@
+# For each img-lbl pair in json: img_path, lbl_path, kind
+json_pth: s3://mstackpo/raster_chips/shanghai_build.json
+batch_size: 64
+num_epochs: 3
+# Use subset of full datasets
+trn_pct: 0.01
+val_pct: 0.01
+tst_pct: 0.1
+# Where to write training logs
+log_dir: ./tb_logs/
