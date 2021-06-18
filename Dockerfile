@@ -40,9 +40,9 @@ RUN dnf install --disableplugin=subscription-manager -y \
 USER rad_ml:rad_ml
 
 # copy radptl source code for building the wheel
-RUN mkdir -p /rad_ml/src/ /rad_ml/experiment/ /mnt/
+RUN mkdir -p /rad_ml/src/ /rad_ml/src/ /mnt/
 COPY --chown=rad_ml:rad_ml requirements.txt /rad_ml/src/
-COPY --chown=rad_ml:rad_ml experiment/*.py /rad_ml/experiment/
+COPY --chown=rad_ml:rad_ml src/*.py /rad_ml/src/
 
 # Install required packages
 RUN cd src/ && \

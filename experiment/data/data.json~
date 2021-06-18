@@ -1,0 +1,52 @@
+[
+   {
+      "img_path": "/mnt/tier5/mstackpole/rad_ml/data_sample/img/RGB-PanSharpen_AOI_2_Vegas_img1265.tif",
+      "lbl_path": "/mnt/tier5/mstackpole/rad_ml/data_sample/msk/RGB-PanSharpen_AOI_2_Vegas_msk1265.tif",
+      "kind": "train"
+   },
+   {
+      "img_path": "/mnt/tier5/mstackpole/rad_ml/data_sample/img/RGB-PanSharpen_AOI_2_Vegas_img1385.tif",
+      "lbl_path": "/mnt/tier5/mstackpole/rad_ml/data_sample/msk/RGB-PanSharpen_AOI_2_Vegas_msk1385.tif",
+      "kind": "train"
+   },
+   {
+      "img_path": "/mnt/tier5/mstackpole/rad_ml/data_sample/img/RGB-PanSharpen_AOI_2_Vegas_img1488.tif",
+      "lbl_path": "/mnt/tier5/mstackpole/rad_ml/data_sample/msk/RGB-PanSharpen_AOI_2_Vegas_msk1488.tif",
+      "kind": "train"
+   },
+   {
+      "img_path": "/mnt/tier5/mstackpole/rad_ml/data_sample/img/RGB-PanSharpen_AOI_2_Vegas_img2144.tif",
+      "lbl_path": "/mnt/tier5/mstackpole/rad_ml/data_sample/msk/RGB-PanSharpen_AOI_2_Vegas_msk2144.tif",
+      "kind": "train"
+   },
+   {
+      "img_path": "/mnt/tier5/mstackpole/rad_ml/data_sample/img/RGB-PanSharpen_AOI_2_Vegas_img225.tif",
+      "lbl_path": "/mnt/tier5/mstackpole/rad_ml/data_sample/msk/RGB-PanSharpen_AOI_2_Vegas_msk225.tif",
+      "kind": "train"
+   },
+   {
+      "img_path": "/mnt/tier5/mstackpole/rad_ml/data_sample/img/RGB-PanSharpen_AOI_2_Vegas_img246.tif",
+      "lbl_path": "/mnt/tier5/mstackpole/rad_ml/data_sample/msk/RGB-PanSharpen_AOI_2_Vegas_msk246.tif",
+      "kind": "train"
+   },
+   {
+      "img_path": "/mnt/tier5/mstackpole/rad_ml/data_sample/img/RGB-PanSharpen_AOI_2_Vegas_img2636.tif",
+      "lbl_path": "/mnt/tier5/mstackpole/rad_ml/data_sample/msk/RGB-PanSharpen_AOI_2_Vegas_msk2636.tif",
+      "kind": "train"
+   },
+   {
+      "img_path": "/mnt/tier5/mstackpole/rad_ml/data_sample/img/RGB-PanSharpen_AOI_2_Vegas_img5184.tif",
+      "lbl_path": "/mnt/tier5/mstackpole/rad_ml/data_sample/msk/RGB-PanSharpen_AOI_2_Vegas_msk5184.tif",
+      "kind": "train"
+   },
+   {
+      "img_path": "/mnt/tier5/mstackpole/rad_ml/data_sample/img/RGB-PanSharpen_AOI_2_Vegas_img5874.tif",
+      "lbl_path": "/mnt/tier5/mstackpole/rad_ml/data_sample/msk/RGB-PanSharpen_AOI_2_Vegas_msk5874.tif",
+      "kind": "train"
+   },
+   {
+      "img_path": "/mnt/tier5/mstackpole/rad_ml/data_sample/img/RGB-PanSharpen_AOI_2_Vegas_img802.tif",
+      "lbl_path": "/mnt/tier5/mstackpole/rad_ml/data_sample/msk/RGB-PanSharpen_AOI_2_Vegas_msk802.tif",
+      "kind": "train"
+   }
+]

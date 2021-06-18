@@ -1,7 +1,7 @@
 import json
 import random
 
-import boto3
+#import boto3
 
 
 def get_kind(key):
@@ -40,11 +40,11 @@ from pathlib import Path
 data = [
     {
         'img_path': str(pth),
-        'lbl_path': str(pth).replace('compress_img', 'build'),
+        'lbl_path': str(pth).replace('img', 'msk'),
         'kind': get_kind(str(pth)),
     }
-    for pth in Path('/mnt/tier5/mstackpole/road-training/chips/compress_img/shanghai').glob('*.tif')
+    for pth in Path('/mnt/tier5/mstackpole/rad_ml/data_sample/img').glob('*.tif')
 ]
 
-with open('/mnt/tier5/mstackpole/rad_ml_aws/experiment/local_shanghai_build.json', 'w') as f:
+with open('/mnt/tier5/mstackpole/rad_ml/data_sample/data.json', 'w') as f:
     json.dump(data, f, indent=3)

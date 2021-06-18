@@ -50,7 +50,6 @@ def get_local_pth(pth, scratch_dir):
     if pth.startswith('s3://'):
         bucket, key = _parse_s3_path(pth)
         
-        boto3.setup_default_session(region_name='us-east-1', profile_name='rdml')
         local_pth = str(Path(scratch_dir).resolve()/Path(key).name)
 
         aws_s3 = boto3.resource('s3')
@@ -80,6 +79,7 @@ def main(yml_path):
         local_yml_path = get_local_pth(yml_path, scratch_dir)
         config = read_yaml(local_yml_path)
         local_json_pth = get_local_pth(config['json_pth'], scratch_dir)
+        local_log_dir = get_local_pth(config['log_dir'], scratch_dir)
 
         # Initialize training classes
         local_bs = 8
@@ -140,7 +140,7 @@ def main(yml_path):
             limit_train_batches=config.get('trn_pct', 1.),
             limit_val_batches=config.get('val_pct', 1.),
             limit_test_batches=config.get('tst_pct', 1.),
-            logger=pl.loggers.TensorBoardLogger(config['log_dir'],
+            logger=pl.loggers.TensorBoardLogger(local_log_dir,
                                                 default_hp_metric=False),
         )
 
@@ -148,8 +148,13 @@ def main(yml_path):
         trainer.fit(fcn)
         trainer.test()
 
-        # TODO Move logs???
-
+        # Move logs to S3
+        bucket, key = _parse_s3_path(config['log_dir'])
+        boto3.resource('s3').Bucket(bucket)\
+                            .upload_file(Filename=local_log_dir,
+                                         Key=key,
+                                         ExtraArgs={'ACL': 'bucket-owner-full-control'})
+        
 
 if __name__ == "__main__":
     main()
