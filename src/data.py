@@ -5,32 +5,22 @@ from rasterio.session import AWSSession
 from torch.utils.data import Dataset
 
 
-def get_image(paths, scale, **kwargs):
+def get_image(pth, scale, **kwargs):
     """
     Open image with rasterio.
     If list of paths, opens and concatenates on first axis.
     CAREFUL! If kwargs['indexes'] = <int>, will concat on height channel.
     Instead, use kwargs['indexes'] = list(<int>) or add axis to np.concatenate.
     """
-    if isinstance(paths, list):
-        img = np.concatenate([
-            rio_open_image(pth, **kwargs)
-            for pth in paths
-        ])
-    else:
-        img = rio_open_image(paths, **kwargs)
+    with rio.Env(AWSSession()) as env:
+        with rio.open(pth) as src:
+            img = src.read(**kwargs)
     img = np.moveaxis(img, 0, -1)
 
     return img.astype(float) / scale
 
 
-def rio_open_image(pth, **kwargs):
-    with rio.Env(AWSSession()) as env:
-        with rio.open(pth) as src:
-            return src.read(**kwargs)
-
-
-class AlaCarteDataset(Dataset):
+class SegDataset(Dataset):
     def __init__(self, json_path, kind, xcol, ycol,
                  scale_x=255, scale_y=1, transform=None):
         """

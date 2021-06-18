@@ -96,20 +96,20 @@ def main(yml_path):
         trn_tfms = T.Compose(tfms)
 
         # Datasets
-        trn_ds = data.AlaCarteDataset(
+        trn_ds = data.SegDataset(
             local_json_pth, 'train',
             'img_path', 'lbl_path',
             scale_x=255, scale_y=1,
             transform=trn_tfms,
         )
-        val_ds = data.AlaCarteDataset(
+        val_ds = data.SegDataset(
             local_json_pth, 'valid',
             'img_path', 'lbl_path',
             scale_x=255, scale_y=1,
             transform=val_tfms,
         )
 
-        tst_ds = data.AlaCarteDataset(
+        tst_ds = data.SegDataset(
             local_json_pth, 'test',
             'img_path', 'lbl_path',
             scale_x=255, scale_y=1,
