@@ -5,9 +5,7 @@ import click
 @click.command()
 @click.argument('yaml_pths',
                 nargs=-1,
-                type=click.Path(exists=True, file_okay=True,
-                                dir_okay=False, readable=True,
-                                resolve_path=True))
+                type=click.Path(file_okay=True, dir_okay=False))
 def main(yaml_pths):
     boto3.setup_default_session(profile_name='rdml',
                                 region_name='us-east-1')
