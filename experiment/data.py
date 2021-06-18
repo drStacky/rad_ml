@@ -1,6 +1,7 @@
 import numpy as np
 import pandas as pd
 import rasterio as rio
+from rasterio.session import AWSSession
 from torch.utils.data import Dataset
 
 
@@ -24,8 +25,9 @@ def get_image(paths, scale, **kwargs):
 
 
 def rio_open_image(pth, **kwargs):
-    with rio.open(pth) as src:
-        return src.read(**kwargs)
+    with rio.Env(AWSSession()) as env:
+        with rio.open(pth) as src:
+            return src.read(**kwargs)
 
 
 class AlaCarteDataset(Dataset):
