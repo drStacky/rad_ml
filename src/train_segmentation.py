@@ -43,7 +43,7 @@ def _parse_s3_path(s3_path):
     return bucket_name, key
 
 
-def get_local_pth(pth, scratch_dir):
+def get_local_pth(pth, scratch_dir, download=False):
     """
     Download to scratch_dir and return local path if in s3.
     """
@@ -53,7 +53,8 @@ def get_local_pth(pth, scratch_dir):
         local_pth = str(Path(scratch_dir).resolve()/Path(key).name)
 
         aws_s3 = boto3.resource('s3')
-        aws_s3.Object(bucket, key).download_file(local_pth)
+        if download:
+            aws_s3.Object(bucket, key).download_file(local_pth)
     else:
         local_pth = pth
 
@@ -76,9 +77,9 @@ def read_yaml(pth):
 @click.argument('yml_path')
 def main(yml_path):
     with temporary_directory() as scratch_dir:
-        local_yml_path = get_local_pth(yml_path, scratch_dir)
+        local_yml_path = get_local_pth(yml_path, scratch_dir, download=True)
         config = read_yaml(local_yml_path)
-        local_json_pth = get_local_pth(config['json_pth'], scratch_dir)
+        local_json_pth = get_local_pth(config['json_pth'], scratch_dir, download=True)
         local_log_dir = get_local_pth(config['log_dir'], scratch_dir)
 
         # Initialize training classes
