@@ -7,8 +7,6 @@ import click
                 nargs=-1,
                 type=click.Path(file_okay=True, dir_okay=False))
 def main(yaml_pths):
-    boto3.setup_default_session(profile_name='rdml',
-                                region_name='us-east-1')
     batch = boto3.client('batch')
     for yaml_pth in yaml_pths:
         cmd = ['python3', 'src/train_segmentation.py', yaml_pth]
