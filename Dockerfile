@@ -33,7 +33,7 @@ FROM base as train
 
 # install packages needed only for building
 RUN dnf install --disableplugin=subscription-manager -y \
-        python38-setuptools python38-wheel python38-pip binutils && \
+        python38-setuptools python38-wheel python38-pip binutils vim-enhanced && \
     pip3 install --upgrade --no-cache-dir pip
 
 # switch to radptl user to make sure wheels are built in home dir
