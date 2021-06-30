@@ -7,6 +7,7 @@ import click
                 nargs=-1,
                 type=click.Path(file_okay=True, dir_okay=False))
 def main(yaml_pths):
+    assert len(yaml_pths) > 0, "No yaml_pths given"
     batch = boto3.client('batch')
     for yaml_pth in yaml_pths:
         cmd = ['python3', 'src/train_segmentation.py', yaml_pth]
