@@ -81,6 +81,7 @@ def main(yml_path):
         config = read_yaml(local_yml_path)
         local_json_pth = get_local_pth(config['json_pth'], scratch_dir, download=True)
         local_log_dir = get_local_pth(config['log_dir'], scratch_dir)
+        Path(local_log_dir).mkdir(exist_ok=True, parents=True)
 
         # Initialize training classes
         local_bs = 8
