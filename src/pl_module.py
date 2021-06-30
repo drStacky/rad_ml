@@ -7,7 +7,7 @@ from torchvision.models.segmentation import fcn_resnet50
 
 
 # Get pretrained FCN architecture.
-def get_fcn(pt=False, nc=21):
+def get_fcn(pt=True, nc=21):
     # If nc != 21, last layers will used subset of pretrained weights
     assert 0 < nc <= 21, f'Num_classes must be between 1 and 21, got {nc}'
 
@@ -50,8 +50,7 @@ class FCNSegmentation(pl.LightningModule):
         self.metrics = nn.ModuleList(metrics)
         self.bs = bs
         self.nw = nw
-        # self.fcn = get_fcn(pt=pretrained, nc=num_classes)
-        self.fcn = fcn_resnet50(pretrained=False, num_classes=num_classes)
+        self.fcn = get_fcn(pt=pretrained, nc=num_classes)
 
     def train_dataloader(self):
         return self.get_dl('train')
