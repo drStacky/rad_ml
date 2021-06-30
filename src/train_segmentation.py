@@ -85,7 +85,7 @@ def main(yml_path):
         # Initialize training classes
         local_bs = 8
         total_bs = config.get('batch_size', local_bs)
-        nw = 2
+        nw = config.get('num_workers', 0)
         epochs = config.get('num_epochs', 1)
         
         # Transforms and Augmentations
