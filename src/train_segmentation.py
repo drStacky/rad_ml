@@ -82,12 +82,6 @@ def main(yml_path):
         local_json_pth = get_local_pth(config['json_pth'], scratch_dir, download=True)
         local_log_dir = get_local_pth(config['log_dir'], scratch_dir)
         Path(local_log_dir).mkdir(exist_ok=True, parents=True)
-
-        # Initialize training classes
-        local_bs = 8
-        total_bs = config.get('batch_size', local_bs)
-        nw = config.get('num_workers', 0)
-        epochs = config.get('num_epochs', 1)
         
         # Transforms and Augmentations
         mean = np.array([0.485, 0.456, 0.406])
@@ -122,14 +116,21 @@ def main(yml_path):
         # TODO This will have to be custom
         # metrics = [IoU(num_classes=2), Precision(num_classes=2), Recall(num_classes=2)]
         metrics = []
-        
+
+        # Initialize training classes
+        local_bs = min(8, len(trn_ds))
+        total_bs = config.get('batch_size', local_bs)
+        nw = config.get('num_workers', 0)
+        epochs = config.get('num_epochs', 1)
+
         fcn = pl_module.FCNSegmentation(
             pretrained=True,
             num_classes=1,
             trn_ds=trn_ds,
             val_ds=val_ds,
             tst_ds=tst_ds,
-            bs=local_bs, nw=nw,
+            bs=local_bs,
+            nw=nw,
             metrics=metrics,
         )
 
