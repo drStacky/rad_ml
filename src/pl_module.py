@@ -40,7 +40,7 @@ class FCNSegmentation(pl.LightningModule):
                  pretrained=True, num_classes=21,
                  sampler=None,
                  metrics=[],
-                 bs=8, nw=0):
+                 bs=1, nw=0):
         super().__init__()
         self.datasets = {
             'train': {'ds': trn_ds, 'samp': sampler, 'drop': True},

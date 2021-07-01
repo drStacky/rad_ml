@@ -136,7 +136,7 @@ def main(yml_path):
         trainer = pl.Trainer(
             gpus=1,
             max_epochs=epochs,
-            accumulate_grad_batches=total_bs // local_bs,
+            accumulate_grad_batches=max(total_bs // local_bs, 1),
             benchmark=True,
             num_sanity_val_steps=2,
             limit_train_batches=config.get('trn_pct', 1.),
