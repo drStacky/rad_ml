@@ -1,52 +1,37 @@
 [
    {
       "img_path": "s3://<bucket>/<key>/img/RGB-PanSharpen_AOI_2_Vegas_img1265.tif",
-      "lbl_path": "s3://<bucket>/<key>/msk/RGB-PanSharpen_AOI_2_Vegas_msk1265.tif",
+      "lbl_path": "s3://<bucket>/<key>/msk/buildings_AOI_2_Vegas_img1265.tif",
       "kind": "train"
    },
    {
       "img_path": "s3://<bucket>/<key>/img/RGB-PanSharpen_AOI_2_Vegas_img1385.tif",
-      "lbl_path": "s3://<bucket>/<key>/RGB-PanSharpen_AOI_2_Vegas_msk1385.tif",
+      "lbl_path": "s3://<bucket>/<key>/buildings_AOI_2_Vegas_img1385.tif",
       "kind": "train"
    },
    {
       "img_path": "s3://<bucket>/<key>/img/RGB-PanSharpen_AOI_2_Vegas_img1488.tif",
-      "lbl_path": "s3://<bucket>/<key>/msk/RGB-PanSharpen_AOI_2_Vegas_msk1488.tif",
+      "lbl_path": "s3://<bucket>/<key>/msk/buildings_AOI_2_Vegas_img1488.tif",
       "kind": "train"
    },
    {
       "img_path": "s3://<bucket>/<key>/img/RGB-PanSharpen_AOI_2_Vegas_img2144.tif",
-      "lbl_path": "s3://<bucket>/<key>/msk/RGB-PanSharpen_AOI_2_Vegas_msk2144.tif",
-      "kind": "train"
+      "lbl_path": "s3://<bucket>/<key>/msk/buildings_AOI_2_Vegas_img2144.tif",
+      "kind": "valid"
    },
    {
       "img_path": "s3://<bucket>/<key>/img/RGB-PanSharpen_AOI_2_Vegas_img225.tif",
-      "lbl_path": "s3://<bucket>/<key>/msk/RGB-PanSharpen_AOI_2_Vegas_msk225.tif",
-      "kind": "train"
-   },
-   {
-      "img_path": "s3://<bucket>/<key>/img/RGB-PanSharpen_AOI_2_Vegas_img246.tif",
-      "lbl_path": "s3://<bucket>/<key>/msk/RGB-PanSharpen_AOI_2_Vegas_msk246.tif",
-      "kind": "train"
+      "lbl_path": "s3://<bucket>/<key>/msk/buildings_AOI_2_Vegas_img225.tif",
+      "kind": "valid"
    },
    {
       "img_path": "s3://<bucket>/<key>/img/RGB-PanSharpen_AOI_2_Vegas_img2636.tif",
-      "lbl_path": "s3://<bucket>/<key>/msk/RGB-PanSharpen_AOI_2_Vegas_msk2636.tif",
-      "kind": "valid"
-   },
-   {
-      "img_path": "s3://<bucket>/<key>/img/RGB-PanSharpen_AOI_2_Vegas_img5184.tif",
-      "lbl_path": "s3://<bucket>/<key>/msk/RGB-PanSharpen_AOI_2_Vegas_msk5184.tif",
-      "kind": "valid"
-   },
-   {
-      "img_path": "s3://<bucket>/<key>/img/RGB-PanSharpen_AOI_2_Vegas_img5874.tif",
-      "lbl_path": "s3://<bucket>/<key>/msk/RGB-PanSharpen_AOI_2_Vegas_msk5874.tif",
+      "lbl_path": "s3://<bucket>/<key>/msk/buildings_AOI_2_Vegas_img2636.tif",
       "kind": "test"
    },
    {
-      "img_path": "s3://<bucket>/<key>/img/RGB-PanSharpen_AOI_2_Vegas_img802.tif",
-      "lbl_path": "s3://<bucket>/<key>/msk/RGB-PanSharpen_AOI_2_Vegas_msk802.tif",
+      "img_path": "s3://<bucket>/<key>/img/RGB-PanSharpen_AOI_2_Vegas_img5184.tif",
+      "lbl_path": "s3://<bucket>/<key>/msk/buildings_AOI_2_Vegas_img5184.tif",
       "kind": "test"
    }
 ]
