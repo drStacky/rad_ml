@@ -61,6 +61,18 @@ def get_local_pth(pth, scratch_dir, download=False):
     return local_pth
 
 
+def upload_dir(local_dir, s3_pth):
+    bucket, key = _parse_s3_path(s3_pth)
+    s3 = boto3.resource('s3')
+    for obj in Path(local_dir).glob('**/*'):
+        if obj.is_file():
+            obj_key = Path(key)/obj
+            s3.Bucket(bucket)\
+                .upload_file(Filename=obj,
+                             Key=obj_key,
+                             ExtraArgs={'ACL': 'bucket-owner-full-control'})
+
+
 def read_yaml(pth):
     """
     Read a local yaml and return dict of contents
@@ -152,12 +164,8 @@ def main(yml_path):
         trainer.test()
 
         # Move logs to S3
-        bucket, key = _parse_s3_path(config['log_dir'])
-        boto3.resource('s3').Bucket(bucket)\
-                            .upload_file(Filename=local_log_dir,
-                                         Key=key,
-                                         ExtraArgs={'ACL': 'bucket-owner-full-control'})
-        
+        upload_dir(local_log_dir, config['log_dir'])
+
 
 if __name__ == "__main__":
     main()
