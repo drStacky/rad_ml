@@ -66,9 +66,9 @@ def upload_dir(local_dir, s3_pth):
     s3 = boto3.resource('s3')
     for obj in Path(local_dir).glob('**/*'):
         if obj.is_file():
-            obj_key = Path(key)/obj
+            obj_key = str(Path(key)/obj)
             s3.Bucket(bucket)\
-                .upload_file(Filename=obj,
+                .upload_file(Filename=str(obj),
                              Key=obj_key,
                              ExtraArgs={'ACL': 'bucket-owner-full-control'})
 
