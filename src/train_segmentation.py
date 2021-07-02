@@ -130,8 +130,8 @@ def main(yml_path):
         metrics = []
 
         # Initialize training classes
-        local_bs = min(8, len(trn_ds))
-        total_bs = config.get('batch_size', local_bs)
+        total_bs = config.get('batch_size', 1)
+        local_bs = max(min(total_bs, len(trn_ds)), 1)
         nw = config.get('num_workers', 0)
         epochs = config.get('num_epochs', 1)
 
