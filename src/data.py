@@ -12,7 +12,7 @@ def get_image(pth, scale, **kwargs):
     CAREFUL! If kwargs['indexes'] = <int>, will concat on height channel.
     Instead, use kwargs['indexes'] = list(<int>) or add axis to np.concatenate.
     """
-    with rio.Env(AWSSession()) as env:
+    with rio.Env(AWSSession(), AWS_HTTPS='NO') as env:
         with rio.open(pth) as src:
             img = src.read(**kwargs)
     img = np.moveaxis(img, 0, -1)
