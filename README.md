@@ -3,10 +3,9 @@
 MVP of training workflow to be deployed in AWS Batch.
 
 1. Build the docker container using `Dockerfile`. Store in ECR.
+
 1. Setup `Job Definition`, `Job Queue`, and `Compute Environment`
    in AWS Batch to accept jobs.
-   
-   (This is where I need the most help)
    
 1. Put the file in `experiment` into S3.
 
